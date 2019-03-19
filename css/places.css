@@ -1,0 +1,26 @@
+h1 {
+  color: #FF7F50;
+  font-family: sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: sans-serif;
+  color: #ffffff;
+}
+
+ul {
+  font-family: sans-serif;
+  color: #ffffff;
+}
+
+ol {
+  font-family: sans-serif;
+  color: #ffffff;
+}
+
+body {
+  background-color: #C0C0C0;
+}
